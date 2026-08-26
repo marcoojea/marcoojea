@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marco Ojea 👋
 
-### 🧪 QA Tester & Junior Developer
+### QA Tester & Junior Developer
 
 Me interesa entender cómo funciona un producto, detectar oportunidades de mejora y contribuir a que el software sea más fiable y fácil de usar. Compagino mi perfil de QA con el aprendizaje continuo en desarrollo web para comprender cada proyecto de principio a fin.
 
