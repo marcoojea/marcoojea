@@ -14,11 +14,15 @@ Me interesa entender cómo funciona un producto, detectar oportunidades de mejor
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** TypeScript y JavaScript
-- **Desarrollo web:** React y Tailwind CSS
-- **Testing:** Playwright
-- **Datos:** PostgreSQL
-- **Herramientas:** Git y GitHub
+| Área | Tecnologías y herramientas |
+| --- | --- |
+| 💻 **Lenguajes** | TypeScript · JavaScript · Java |
+| 🌐 **Desarrollo web** | React · Tailwind CSS |
+| 🧪 **Testing** | Playwright |
+| 🗃️ **Datos** | PostgreSQL |
+| ✍️ **Entorno de desarrollo** | Visual Studio Code |
+| 🤖 **Herramientas de IA** | Codex · Claude · ChatGPT · GitHub Copilot |
+| 🔧 **Control de versiones** | Git · GitHub |
 
 ## 📌 Proyecto destacado
 
