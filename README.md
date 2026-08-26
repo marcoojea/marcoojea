@@ -8,7 +8,7 @@ Me interesa entender cómo funciona un producto, detectar oportunidades de mejor
 
 - 🔍 Me estoy formando y creciendo profesionalmente en **QA y testing de software**.
 - 🌐 Desarrollo proyectos web para reforzar mis conocimientos de programación.
-- 🧪 Practico testing funcional y pruebas end-to-end con **Playwright**.
+- 🧪 Realizo **testing manual y funcional**, y también practico pruebas end-to-end con **Playwright**.
 - 💡 Me gusta aprender haciendo, investigar problemas y mejorar paso a paso.
 - 🎯 Mi objetivo es seguir ampliando mis conocimientos y aportar cada vez más valor a los proyectos en los que participo.
 
@@ -18,7 +18,7 @@ Me interesa entender cómo funciona un producto, detectar oportunidades de mejor
 | --- | --- |
 | 💻 **Lenguajes** | TypeScript · JavaScript · Java |
 | 🌐 **Desarrollo web** | React · Tailwind CSS |
-| 🧪 **Testing** | Playwright |
+| 🧪 **Testing** | Testing manual · Pruebas funcionales · Playwright |
 | 🗃️ **Datos** | PostgreSQL |
 | ✍️ **Entorno de desarrollo** | Visual Studio Code |
 | 🤖 **Herramientas de IA** | Codex · Claude · ChatGPT · GitHub Copilot |
