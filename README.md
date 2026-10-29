@@ -24,12 +24,4 @@ Me interesa entender cómo funciona un producto, detectar oportunidades de mejor
 | 🤖 **Herramientas de IA** | Codex · Claude · ChatGPT · GitHub Copilot |
 | 🔧 **Control de versiones** | Git · GitHub |
 
-## 📌 Proyecto destacado
-
-### [hypermociones](https://github.com/marcoojea/hypermociones)
-
-Proyecto web con **TypeScript y React** en el que continúo practicando desarrollo, calidad de código y testing.
-
----
-
 > Aprendiendo cada día, construyendo proyectos y mejorando con cada reto.
